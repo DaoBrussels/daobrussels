@@ -1,11 +1,3 @@
 {
-  "extends": "@daobrussels/typescript-config/react-library.json",
-  "compilerOptions": {
-    "plugins": []
-  },
-  "include": [
-    "**/*.ts",
-    "**/*.tsx",
-  ],
-  "exclude": ["node_modules"]
+  "extends": "@daobrussels/typescript-config/astro.json",
 }
