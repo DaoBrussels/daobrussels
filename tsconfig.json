@@ -1,0 +1,3 @@
+{
+  "extends": "@daobrussels/typescript-config/base.json"
+}
